@@ -60,3 +60,5 @@ G40,high,yes,excellent,yes
 
 
 ### RESULT: 
+
+Thus, the association rules for the employee (Buying) dataset were successfully generated using the Apriori Algorithm in WEKA. The frequent itemsets and strong association rules were identified based on support and confidence values.
